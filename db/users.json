@@ -1,0 +1,48 @@
+{
+  "RECORDS": [
+    {
+      "_id": "5fb3bf5db1550000370000b3",
+      "account": "xiaowang",
+      "createDate": "",
+      "email": "550250108@qq.com",
+      "imgUrl": "1.jpg",
+      "password": "123456",
+      "role": "5fc783d126420000dc00503b",
+      "state": "1",
+      "updateDate": ""
+    },
+    {
+      "_id": "5fb665f1225b000036004df5",
+      "account": "xiaofei",
+      "createDate": "",
+      "email": "18681313373@163.com",
+      "imgUrl": "2.jpg",
+      "password": "666666",
+      "role": "5fc7842d26420000dc00503c",
+      "state": "1",
+      "updateDate": ""
+    },
+    {
+      "_id": "5fc8b66b2607801f04a68c9b",
+      "account": "xiaoqing",
+      "createDate": "3/12/2020 09:56:59.041",
+      "email": "123@qq.com",
+      "imgUrl": "",
+      "password": "123456",
+      "role": "5fc79a771bd06831d09bcabe",
+      "state": "1",
+      "updateDate": "3/12/2020 09:56:59.041"
+    },
+    {
+      "_id": "5fc8b7528dec0e3c20d6958c",
+      "account": "xiaomei",
+      "createDate": "3/12/2020 10:00:50.158",
+      "email": "324@qq.com",
+      "imgUrl": "",
+      "password": "666666",
+      "role": "5fc783d126420000dc00503b",
+      "state": "1",
+      "updateDate": "3/12/2020 10:00:50.158"
+    }
+  ]
+}
